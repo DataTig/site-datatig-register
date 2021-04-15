@@ -1,0 +1,19 @@
+title: DataTig register
+description:  A list of sites that are or could be using DataTig
+types:
+- id: project
+  directory: project
+  fields:
+  - id: title
+    key: title
+    title: title
+  - id: url
+    key: url
+    title: url
+  list_fields:
+  - title
+  json_schema: schema.json
+  pretty_json_indent: 2
+githost:
+  type: github
+  url: DataTig/site-datatig-register
