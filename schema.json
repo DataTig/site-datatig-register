@@ -16,6 +16,11 @@
             "title": "Uses Datatig?",
             "description": "Does project currently use DataTig?",
             "type": "boolean"
+        },
+        "notes": {
+            "title": "Notes",
+            "description": "notes",
+            "type": "string"
         }
     }
 }

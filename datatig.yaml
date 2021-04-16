@@ -13,6 +13,9 @@ types:
   - id: uses_datatig
     key: uses_datatig
     title: Uses Datatig?
+  - id: notes
+    key: notes
+    title: Notes
   list_fields:
   - title
   json_schema: schema.json
