@@ -11,6 +11,11 @@
             "title": "URL",
             "description": "URL of Project",
             "type": "string"
+        },
+        "uses_datatig": {
+            "title": "Uses Datatig?",
+            "description": "Does project currently use DataTig?",
+            "type": "boolean"
         }
     }
 }

@@ -10,6 +10,9 @@ types:
   - id: url
     key: url
     title: url
+  - id: uses_datatig
+    key: uses_datatig
+    title: Uses Datatig?
   list_fields:
   - title
   json_schema: schema.json
