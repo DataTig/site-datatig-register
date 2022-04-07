@@ -15,6 +15,7 @@ types:
     title: Uses Datatig?
   list_fields:
   - title
+  guide_form_xlsx: spreadsheetguideform.xlsx
   json_schema: schema.json
   pretty_json_indent: 2
 githost:
